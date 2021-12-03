@@ -1,1 +1,1 @@
-E rekrutacja_zadanie_B
+# rekrutacja_zadanie_B
